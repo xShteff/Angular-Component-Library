@@ -19,3 +19,6 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
         FOLDER: dist
+        BASE_BRANCH: develop
+        GIT_CONFIG_NAME: Alin Stefan Olaru
+        GIT_CONFIG_EMAIL: alinstefanolaru@gmail.com
